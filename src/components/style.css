@@ -1,0 +1,14 @@
+.main-wrapper {
+    width: 100%;
+    display: flex;
+}
+
+.sidebar-main-wrapper {
+    width: 30%;
+    background: lightblue;
+    border-radius: 1em;
+}
+
+.display-wrapper {
+    width: 70%;
+}
